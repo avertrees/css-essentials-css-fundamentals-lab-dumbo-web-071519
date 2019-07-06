@@ -12,10 +12,11 @@ header {
   text-align: center;
 }
 
-#featured-property {
+#featured-property p{
   width: 800px;
   text-align: center;
 }
+
 nav a{
   padding:10px;
 }
