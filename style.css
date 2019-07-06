@@ -27,5 +27,6 @@ nav a{
   background:red;
   text-align: center;
   float: left;
-  display:block;
+  display:block
+  width:25%;
 }
