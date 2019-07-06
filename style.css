@@ -18,13 +18,13 @@ nav a{
 
 #details{
   float: left;
+  
   display: block;
-  padding:0px;
   width:25%;
 }
 
 #details div{
   background:red;
   text-align: center;
-  
+  float: left;
 }
