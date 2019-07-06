@@ -17,11 +17,13 @@ nav a{
   padding:10px;
 }
 
-section #details{
+#details{
   display: block;
   float: left;
 }
 
-div {
-  
+section #details {
+  background:red;
+  text-align: center;
+  width: 25%;
 }
