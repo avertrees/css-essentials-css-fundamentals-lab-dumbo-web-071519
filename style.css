@@ -9,8 +9,8 @@ header {
  text-align:center; 
 }
 
-#featured-property img{
-  align-items: center;
+#featured-property{
+  text-align: center;
 }
 
 nav a{
