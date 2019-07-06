@@ -18,7 +18,7 @@ nav a{
 }
 
 #details{
-  display: block;
+  display: inline-blockblock;
   float: left;
 }
 
