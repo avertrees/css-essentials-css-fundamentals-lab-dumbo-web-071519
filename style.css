@@ -22,7 +22,7 @@ nav a{
   float: left;
 }
 
-section #details {
+#details div{
   background:red;
   text-align: center;
   width: 25%;
