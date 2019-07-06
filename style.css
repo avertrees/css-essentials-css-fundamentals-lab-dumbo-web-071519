@@ -11,17 +11,12 @@ header {
 #featured-property{
   text-align: center;
 }
-
+#featured-property p{
+  width: 800px;
+}
 nav a{
   padding:10px;
 }
-
-/*#details{*/
-/*  float: left;*/
-  
-/*  display: block;*/
-/*  width:25%;*/
-/*}*/
 
 #details div{
   background:red;
